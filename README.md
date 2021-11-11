@@ -1,2 +1,1 @@
-# re
- Single ACRE Cluster 
+# Terraform script for spinning up a single ACRE Cluster 
